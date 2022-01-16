@@ -1,5 +1,5 @@
-package codeproblems;
 //https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149?leftPanelTab=1
+package codeproblems;
 import java.util.HashMap;
 import java.util.ArrayList;
 
