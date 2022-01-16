@@ -1,3 +1,4 @@
+package codeproblems;
 //https://www.codingninjas.com/codestudio/problems/push-zeros-to-end_583?leftPanelTab=1
 public class pushzerotoend {
     // using array rotation concept

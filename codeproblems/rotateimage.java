@@ -1,3 +1,4 @@
+package codeproblems;
 //https://leetcode.com/problems/rotate-image/
 public class rotateimage {
         void transpose(int [][]matrix){
