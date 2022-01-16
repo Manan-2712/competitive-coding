@@ -1,5 +1,5 @@
-package codeproblems;
 //https://www.codingninjas.com/codestudio/problems/number-of-pairs-with-given-sum_630509?leftPanelTab=2
+package codeproblems;
  import java.util.HashMap;
 public class NumberOfPairswithgivenSum {
 	public static long pairsWithGivenSum(int arr[], int sum) 
