@@ -1,5 +1,5 @@
 //https://www.codingninjas.com/codestudio/problems/multiply-strings_982763?leftPanelTab=1
-package codeproblems;
+package Strings;
 
 public class multiply_two_Strings {
     public static String multiplyStrings(String s1, String s2) {
