@@ -1,4 +1,4 @@
-package codeproblems;
+package LinkedLists;
 
 // https://www.codingninjas.com/codestudio/problems/interview-shuriken-42-detect-and-remove-loop_241049?leftPanelTab=1
 public class Detect_and_remove_cycle {

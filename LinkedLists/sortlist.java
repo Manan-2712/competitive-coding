@@ -1,6 +1,6 @@
 //https://leetcode.com/problems/sort-list/
 
-package codeproblems;
+package LinkedLists;
 
 //Definition for singly-linked list.
 class ListNode {

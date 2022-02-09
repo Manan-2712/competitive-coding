@@ -1,6 +1,5 @@
+package LinkedLists;
 //https://www.codingninjas.com/codestudio/problems/reverse-list-in-k-groups_983644#:~:text=1.,2.
-
-package codeproblems;
 
 class Node {
     int data;
