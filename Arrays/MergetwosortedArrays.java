@@ -1,7 +1,6 @@
 //https://leetcode.com/problems/merge-sorted-array/
 // without extra space
 package Arrays;
-
 public class MergetwosortedArrays {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int p1 = m - 1;
