@@ -1,6 +1,6 @@
-//https://leetcode.com/problems/permutations/
-package Arrays;
 
+package Arrays;
+//https://leetcode.com/problems/permutations/
 import java.util.List;
 import java.util.ArrayList;
 
