@@ -7,7 +7,6 @@ public class NumberOfPairswithgivenSum {
     HashMap<Integer,Integer> m= new HashMap<>();
     int n = arr.length;
     long  count = 0L;
-    int result []= new int[2];
 
     for (int i = 0; i < n; i++) {
         if (m.containsKey(sum - arr[i])) {
