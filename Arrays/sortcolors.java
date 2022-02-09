@@ -1,5 +1,6 @@
 //https://leetcode.com/problems/sort-colors/
-package codeproblems;
+
+package Arrays;
 public class sortcolors {
     public void sortColors(int[] nums) {
         int zero = 0;

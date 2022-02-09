@@ -1,5 +1,5 @@
 //https://www.codingninjas.com/codestudio/problems/push-zeros-to-end_583?leftPanelTab=1
-package codeproblems;
+package Arrays;
 public class pushzerotoend {
     // using array rotation concept
     public static void pushZerosAtEnd(int[] arr) {

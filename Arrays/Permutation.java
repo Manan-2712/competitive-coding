@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/permutations/
-package codeproblems;
+package Arrays;
 
 import java.util.List;
 import java.util.ArrayList;

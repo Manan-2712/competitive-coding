@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/next-permutation/submissions/
-package codeproblems;
+package Arrays;
 public class nextpermutation {
         public void nextPermutation(int[] nums) {
             int index=-1;
