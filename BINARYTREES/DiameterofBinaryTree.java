@@ -1,5 +1,5 @@
 //https://www.codingninjas.com/codestudio/problems/find-diameter_5205
-package codeproblems;
+package BINARYTREES;
 import java .util.Queue;
 import java.util.LinkedList;
 import java.util.Scanner;

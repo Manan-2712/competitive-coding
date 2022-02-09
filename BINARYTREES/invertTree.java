@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/invert-binary-tree/submissions/
-package codeproblems;
+package BINARYTREES;
 
 public class invertTree {
     public TreeNode invertTrees(TreeNode root) {
