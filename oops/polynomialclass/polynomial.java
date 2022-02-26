@@ -46,20 +46,25 @@ public class polynomial {
 
     }
 
-    public void multiply(polynomial p2) throws outofBoundsException {
+    public  void multiply(polynomial p2) throws outofBoundsException {
         // int product =0;
-        for (int i = 0; i < this.da.size(); i++) {
+    int n= this.da.size();
+    int m= p2.da.size();
+    polynomial c= new polynomial();
+        for (int i = 0; i < n; i++) {
             int product = 0;
-            for (int j = 0; j < p2.da.size(); j++) {
+            for (int j = 0; j <m; j++) {
                 // int product =0;
                 try {
                     if (this.da.get(i) == 0 || p2.da.get(j) == 0) {
                         product = 0;
-                        continue;
+                     //  c.set(i+j, 0);
+                     continue;
 
                     }
-                    product += this.da.get(i) * p2.da.get(j);
-                    this.da.set((i + j), product);
+                    product= this.da.get(i) * p2.da.get(j);
+                    c.set((i + j), product);
+                  //  return c;
 
                 } catch (outofBoundsException e) {
                     // TODO Auto-generated catch block
@@ -68,6 +73,12 @@ public class polynomial {
 
             }
         }
+        for(int i=0;i<c.da.size();i++){
+            int element= c.da.get(i);
+            this.da.set(i, element);
+        }
+      //  return c;
+      
     }
 
     public int evaluate(int x) throws outofBoundsException {
