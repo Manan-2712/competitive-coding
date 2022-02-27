@@ -62,7 +62,7 @@ public class polynomial {
                      continue;
 
                     }
-                    product= this.da.get(i) * p2.da.get(j);
+                    product=c.da.get(i+j) +this.da.get(i) * p2.da.get(j);
                     c.set((i + j), product);
                   //  return c;
 
