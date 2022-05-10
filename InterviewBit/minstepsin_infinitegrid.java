@@ -6,6 +6,7 @@ import java.util.*;
 public class minstepsin_infinitegrid {
 
     public int coverPoints(ArrayList<Integer> A, ArrayList<Integer> B) {
+
         int prevx = A.get(0);
         int prevy = B.get(0);
         int n = A.size();
