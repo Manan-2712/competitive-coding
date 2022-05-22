@@ -1,3 +1,4 @@
+//https://www.interviewbit.com/problems/partitions/
 package Interviewbit.arrays;
 
 public class partitions {
