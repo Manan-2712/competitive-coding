@@ -1,6 +1,7 @@
 package hashmaps;
 
 import java.util.*;
+//https://www.codingninjas.com/codestudio/problems/maximum-frequency-number_920319?leftPanelTab=0
 
 public class maxfrequency_number {
 
@@ -13,7 +14,8 @@ public class maxfrequency_number {
         int elem = Integer.MIN_VALUE;
         for (int i : arr) {
             if (map.get(i) > maximum_value) {
-                maximum_value = map.get(i);
+                maximum_value = map.get(i);// if array elements having same frequency then return that number that
+                                           // appears first in array
                 elem = i;
             }
         }
