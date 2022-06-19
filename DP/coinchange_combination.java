@@ -1,7 +1,7 @@
 package DP;
 
 public class coinchange_combination {
-
+   // RECURSIVE APPROACH 
     public static void coinchange(int arr[], int tar, int sum, String ans, int index) {
 
         if (index == arr.length) {
@@ -21,7 +21,7 @@ public class coinchange_combination {
         coinchange(arr, tar, sum, ans, index + 1);
 
     }
-
+        // DP APPROACH 
     public static int coinchangeDP(int arr[], int tar) {
         int dp[] = new int[tar + 1];
         dp[0] = 1;
