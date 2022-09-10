@@ -2,8 +2,8 @@
 package CODECHEF;
 
 import java.util.*;
-import java.lang.*;
-import java.io.*;
+//import java.lang.*;
+//import java.io.*;
 
 public class Goodpairs {
     /* package codechef; // don't place package name! */
