@@ -1,3 +1,4 @@
+//https://www.codechef.com/SEP221D/problems/EQPAIR
 package CODECHEF;
 
 import java.util.*;
