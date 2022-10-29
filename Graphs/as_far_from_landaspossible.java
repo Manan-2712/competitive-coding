@@ -1,5 +1,6 @@
 package Graphs;
-
+//https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/graphs/as-far-from-land-as-possible-official/ojquestion
+//https://www.youtube.com/watch?v=yV-b0amHNVM&list=PL-Jc9J83PIiEuHrjpZ9m94Nag4fwAvtPQ&index=6
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
