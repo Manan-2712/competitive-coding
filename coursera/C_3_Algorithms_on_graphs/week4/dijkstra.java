@@ -1,4 +1,4 @@
-import java.beans.Visibility;
+
 import java.util.*;
 
 class pair implements Comparable<pair> {
@@ -84,4 +84,3 @@ public class dijkstra {
         System.out.println(distance(adj, cost, x, y));
     }
 }
-F
