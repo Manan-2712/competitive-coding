@@ -1,3 +1,4 @@
+package CODECHEF;
 //https://www.codechef.com/JULY222D/problems/BURGERS2?tab=submissions
 // For thinking (logic)
 //https://www.youtube.com/watch?v=np895NkR7ho
