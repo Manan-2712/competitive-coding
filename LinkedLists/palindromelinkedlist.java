@@ -1,5 +1,6 @@
 package LinkedLists;
-public class reverse_in_kgroups {
+//eetcode 234.
+public class palindromelinkedlist {
     /**
      * Definition for singly-linked list.
      * public class ListNode {
