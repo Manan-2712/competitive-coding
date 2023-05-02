@@ -10,7 +10,7 @@ public class minimumnumberplatforms {
         int i = 1;
         int j = 0;
         while (i < n && j < n) {
-            if (arr[i]  <= dep[j] )
+            if (arr[i]  <= dep[j] ){
                 plfneeded++;
                 i++;
             } else if (arr[i] > dep[j]) {
@@ -23,3 +23,4 @@ public class minimumnumberplatforms {
         }
         return result;
     }
+}
