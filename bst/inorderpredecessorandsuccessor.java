@@ -1,3 +1,4 @@
+package bst;
 //https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
 class Node
 {
