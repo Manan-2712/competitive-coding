@@ -6,7 +6,7 @@ public class longestpalindromicsubstring {
         int n = s.length();
         int si = 0;
         int ei = 0;
-        int ans[] = new int[2];
+      //  int ans[] = new int[2];
         boolean dp[][] = new boolean[n][n];
         for (int gap = 0; gap < n; gap++) {
             for (int i = 0, j = gap; j < dp.length; i++, j++) {
