@@ -30,4 +30,10 @@ class Queue {
 
         }
     }
+
+    public void remove() {
+    }
+
+    public void add(Integer peek) {
+    }
 }
